@@ -5,7 +5,7 @@
 - PHP
 - Bootstrap
 
-> The solution is to build one app to sale it
+> Opportunities don't happen, you create them.
 
 ### The Features are:
 1. Alarm
