@@ -12,4 +12,4 @@
 2. Crud method to delete and insert new tasks
 3. Pomodoro timer
 
-![The San Juan Mountains are beautiful!](https://startinfinity.s3.us-east-2.amazonaws.com/production/blog/post/15/main/xXMabYYezGITsPPA8PduAZXEmXvz0Xr71FEQGqy4.png)
+![The San Juan Mountains are beautiful!](https://clickup.com/blog/wp-content/uploads/2019/01/to-do-list-apps.png)
